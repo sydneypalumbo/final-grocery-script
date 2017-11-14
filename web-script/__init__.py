@@ -6,7 +6,7 @@ import csv
 browser = webdriver.Chrome(executable_path=r"../chromedriver")
 #Specify the url
 ## NOTE: MUST DO THIS FOR EVERY PRODUCT PAGE (96 at a time)
-browser.get("http://www.publix.com/product-catalog/productlisting?ch=9.13.&page=1&count=96")
+browser.get("http://www.publix.com/product-catalog/productlisting?ch=9.2.6.&page=6&count=96")
 
 browser.implicitly_wait(3)
 
@@ -84,5 +84,8 @@ for y in urlList:
     row = [title, size, description, image, newNutritionFacts, ingredients, allergens]
     with open('../products.csv', 'a') as csvfile:
         csvWriter = csv.writer(csvfile, delimiter='\t')
-        csvWriter.writerow(row)
+        try:
+            csvWriter.writerow(row)
+        except UnicodeEncodeError:
+            continue
     driver.close()
