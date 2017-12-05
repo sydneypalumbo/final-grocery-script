@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f6212e7-84a4-437f-a1b0-003dca97a25d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products3.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products4.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products5.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products6.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/products7.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/products.csv" afterPath="$PROJECT_DIR$/products.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-script/__init__.py" afterPath="$PROJECT_DIR$/web-script/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +23,8 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="120">
+              <caret line="8" column="91" lean-forward="false" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -27,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="products.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/products.csv">
+      <file leaf-file-name="products7.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/products7.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1566">
-              <caret line="2515" column="0" lean-forward="false" selection-start-line="2515" selection-start-column="0" selection-end-line="2515" selection-end-column="0" />
+            <state relative-caret-position="-722">
+              <caret line="3806" column="0" lean-forward="true" selection-start-line="3806" selection-start-column="0" selection-end-line="3806" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,6 +61,7 @@
       <find>browser</find>
       <find>toasted bread</find>
       <find>V8 Splash Flavored Beverage, Strawberry Lemonade</find>
+      <find>Digiorno pizza, thin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -65,17 +71,23 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/web-script/apples" />
-        <option value="$PROJECT_DIR$/web-script/__init__.py" />
-        <option value="$PROJECT_DIR$/web-script/__init__.py" />
         <option value="$PROJECT_DIR$/products.csv" />
+        <option value="$PROJECT_DIR$/products2.csv" />
+        <option value="$PROJECT_DIR$/products3.csv" />
+        <option value="$PROJECT_DIR$/products4.csv" />
+        <option value="$PROJECT_DIR$/products5.csv" />
+        <option value="$PROJECT_DIR$/products6.csv" />
+        <option value="$PROJECT_DIR$/web-script/__init__.py" />
+        <option value="$PROJECT_DIR$/web-script/__init__.py" />
+        <option value="$PROJECT_DIR$/products7.csv" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
+    <option name="x" value="80" />
     <option name="y" value="23" />
     <option name="width" value="1200" />
-    <option name="height" value="721" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -113,6 +125,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -124,7 +137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -267,20 +279,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="23" width="1200" height="721" extended-state="0" />
+    <frame x="80" y="23" width="1200" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28411055" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32469776" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23162939" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18471338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43769968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43630573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -300,6 +312,137 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products7.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52560">
+          <caret line="3504" column="0" lean-forward="false" selection-start-line="3504" selection-start-column="0" selection-end-line="3504" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products7.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22695">
+          <caret line="1513" column="13" lean-forward="true" selection-start-line="1513" selection-start-column="13" selection-end-line="1513" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products6.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31860">
+          <caret line="2124" column="0" lean-forward="false" selection-start-line="2124" selection-start-column="0" selection-end-line="2124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products5.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18555">
+          <caret line="1237" column="16" lean-forward="true" selection-start-line="1237" selection-start-column="16" selection-end-line="1237" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18435">
+          <caret line="1229" column="0" lean-forward="false" selection-start-line="1229" selection-start-column="0" selection-end-line="1229" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22230">
+          <caret line="1482" column="0" lean-forward="true" selection-start-line="1482" selection-start-column="0" selection-end-line="1482" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19470">
+          <caret line="1298" column="41" lean-forward="false" selection-start-line="1298" selection-start-column="41" selection-end-line="1298" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="82" lean-forward="false" selection-start-line="8" selection-start-column="82" selection-end-line="8" selection-end-column="82" />
           <folding>
@@ -312,7 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32205">
           <caret line="2147" column="397" lean-forward="true" selection-start-line="2147" selection-start-column="397" selection-end-line="2147" selection-end-column="397" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -330,7 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15300">
           <caret line="1020" column="0" lean-forward="true" selection-start-line="1020" selection-start-column="0" selection-end-line="1020" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -357,20 +498,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apples" />
     <entry file="file://$PROJECT_DIR$/apples" />
+    <entry file="file://$PROJECT_DIR$/products.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3798">
+          <caret line="2527" column="370" lean-forward="false" selection-start-line="2527" selection-start-column="370" selection-end-line="2527" selection-end-column="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507">
+          <caret line="1958" column="9" lean-forward="false" selection-start-line="1958" selection-start-column="9" selection-end-line="1958" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="1061" column="0" lean-forward="false" selection-start-line="1061" selection-start-column="0" selection-end-line="1061" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5983">
+          <caret line="2456" column="4" lean-forward="false" selection-start-line="2456" selection-start-column="4" selection-end-line="2456" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products5.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="2248" column="0" lean-forward="false" selection-start-line="2248" selection-start-column="0" selection-end-line="2248" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/products6.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8629">
+          <caret line="2379" column="0" lean-forward="false" selection-start-line="2379" selection-start-column="0" selection-end-line="2379" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="120">
+          <caret line="8" column="91" lean-forward="false" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products.csv">
+    <entry file="file://$PROJECT_DIR$/products7.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1566">
-          <caret line="2515" column="0" lean-forward="false" selection-start-line="2515" selection-start-column="0" selection-end-line="2515" selection-end-column="0" />
+        <state relative-caret-position="-722">
+          <caret line="3806" column="0" lean-forward="true" selection-start-line="3806" selection-start-column="0" selection-end-line="3806" selection-end-column="0" />
           <folding />
         </state>
       </provider>

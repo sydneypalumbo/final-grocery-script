@@ -6,13 +6,15 @@ import csv
 browser = webdriver.Chrome(executable_path=r"../chromedriver")
 #Specify the url
 ## NOTE: MUST DO THIS FOR EVERY PRODUCT PAGE (96 at a time)
-browser.get("http://www.publix.com/product-catalog/productlisting?ch=9.2.6.&page=6&count=96")
+browser.get("https://www.publix.com/product-catalog/productlisting?ch=8.18.&page=1&count=96")
 
 browser.implicitly_wait(3)
 
 refList = browser.find_elements_by_class_name("toggle-qv")
 
 urlList = []
+
+driver = webdriver.Chrome(executable_path=r"../chromedriver")
 
 for x in refList:
     if x.get_attribute('href') != None :
@@ -51,9 +53,11 @@ for y in urlList:
         try:
             nutritionButton.send_keys('\n')
         except ElementNotVisibleException:
-            continue
+            nutritionFacts = ""
+            ingredients = ""
+            allergens = ""
         except WebDriverException:
-            continue
+            print('here')
         driver.implicitly_wait(5)
         try:
             nutritionFacts = driver.find_element_by_class_name("nutritionLabel").text
@@ -82,7 +86,7 @@ for y in urlList:
             newNutritionFacts += nutritionFacts[i]
 
     row = [title, size, description, image, newNutritionFacts, ingredients, allergens]
-    with open('../products.csv', 'a') as csvfile:
+    with open('../products7.csv', 'a') as csvfile:
         csvWriter = csv.writer(csvfile, delimiter='\t')
         try:
             csvWriter.writerow(row)
