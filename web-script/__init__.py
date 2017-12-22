@@ -6,7 +6,7 @@ import csv
 browser = webdriver.Chrome(executable_path=r"../chromedriver")
 #Specify the url
 ## NOTE: MUST DO THIS FOR EVERY PRODUCT PAGE (96 at a time)
-browser.get("https://www.publix.com/product-catalog/productlisting?ch=16.11.&page=1&count=96")
+browser.get("https://www.publix.com/product-catalog/productlisting?ch=16.29.&page=1&count=96")
 
 browser.implicitly_wait(3)
 
