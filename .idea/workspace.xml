@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f6212e7-84a4-437f-a1b0-003dca97a25d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodImages1.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodImages2.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodImages3.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodImages4.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodNutrition1.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodNutrition2.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodNutrition3.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/goodNutrition4.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nutrition-script/__init__.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products2.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products3.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products4.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products5.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products6.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products7.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/products8.csv" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/goodImages1.csv" afterPath="$PROJECT_DIR$/goodImages1.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +33,8 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
+            <state relative-caret-position="0">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -32,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goodImages4.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goodImages4.csv">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nutrition-script/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -65,6 +75,10 @@
       <find>publix raw alm</find>
       <find>no-im</find>
       <find>image</find>
+      <find>truvia</find>
+      <find>Truvia B</find>
+      <find>NoIm</find>
+      <find>NoImage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,18 +96,23 @@
         <option value="$PROJECT_DIR$/products6.csv" />
         <option value="$PROJECT_DIR$/products7.csv" />
         <option value="$PROJECT_DIR$/products8.csv" />
-        <option value="$PROJECT_DIR$/web-script/__init__.py" />
-        <option value="$PROJECT_DIR$/web-script/__init__.py" />
         <option value="$PROJECT_DIR$/practice.csv" />
         <option value="$PROJECT_DIR$/onlyImageProducts1.csv" />
         <option value="$PROJECT_DIR$/goodImages2.csv" />
         <option value="$PROJECT_DIR$/goodImages3.csv" />
+        <option value="$PROJECT_DIR$/goodImages4.csv" />
+        <option value="$PROJECT_DIR$/nutritionFormatter.py" />
+        <option value="$PROJECT_DIR$/web-script/__init__.py" />
+        <option value="$PROJECT_DIR$/web-script/__init__.py" />
+        <option value="$PROJECT_DIR$/goodImages1.csv" />
+        <option value="$PROJECT_DIR$/goodNutrition1.csv" />
+        <option value="$PROJECT_DIR$/nutrition-script/__init__.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="85" />
+    <option name="x" value="44" />
+    <option name="y" value="28" />
     <option name="width" value="1200" />
     <option name="height" value="723" />
   </component>
@@ -113,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -135,6 +153,11 @@
             <path>
               <item name="working-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="working-python" type="462c0819:PsiDirectoryNode" />
+              <item name="nutrition-script" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="working-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="working-python" type="462c0819:PsiDirectoryNode" />
               <item name="web-script" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -145,13 +168,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nutrition-script" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -167,20 +192,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Unnamed">
-    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.NutritionScript">
+    <configuration name="NutritionScript" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/untitled folder 3/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-script" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nutrition-script" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="working-python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web-script/__init__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nutrition-script/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,25 +315,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="85" width="1200" height="723" extended-state="0" />
+    <frame x="44" y="28" width="1200" height="723" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14248705" sideWeight="0.4921875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14680484" sideWeight="0.4921875" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26592356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32888147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26592356" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43630573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5078125" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3710191" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5078125" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -320,23 +346,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50610">
-          <caret line="3374" column="0" lean-forward="false" selection-start-line="3374" selection-start-column="0" selection-end-line="3380" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products8.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -347,13 +357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34500">
-          <caret line="2300" column="0" lean-forward="false" selection-start-line="2300" selection-start-column="0" selection-end-line="2300" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products8.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -364,13 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34500">
-          <caret line="2300" column="0" lean-forward="false" selection-start-line="2300" selection-start-column="0" selection-end-line="2300" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products8.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -381,13 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34500">
-          <caret line="2300" column="0" lean-forward="false" selection-start-line="2300" selection-start-column="0" selection-end-line="2300" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products7.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -398,13 +390,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11925">
-          <caret line="795" column="62" lean-forward="false" selection-start-line="795" selection-start-column="62" selection-end-line="795" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products7.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -415,13 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6090">
-          <caret line="406" column="0" lean-forward="true" selection-start-line="406" selection-start-column="0" selection-end-line="406" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products6.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -432,13 +412,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products7.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52560">
-          <caret line="3504" column="0" lean-forward="false" selection-start-line="3504" selection-start-column="0" selection-end-line="3504" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products5.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -449,64 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products7.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22695">
-          <caret line="1513" column="13" lean-forward="true" selection-start-line="1513" selection-start-column="13" selection-end-line="1513" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products6.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31860">
-          <caret line="2124" column="0" lean-forward="false" selection-start-line="2124" selection-start-column="0" selection-end-line="2124" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products5.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18555">
-          <caret line="1237" column="16" lean-forward="true" selection-start-line="1237" selection-start-column="16" selection-end-line="1237" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products4.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18435">
-          <caret line="1229" column="0" lean-forward="false" selection-start-line="1229" selection-start-column="0" selection-end-line="1229" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products4.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -527,13 +444,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22230">
-          <caret line="1482" column="0" lean-forward="true" selection-start-line="1482" selection-start-column="0" selection-end-line="1482" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products2.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -544,13 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19470">
-          <caret line="1298" column="41" lean-forward="false" selection-start-line="1298" selection-start-column="41" selection-end-line="1298" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products2.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -561,13 +466,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32205">
-          <caret line="2147" column="397" lean-forward="true" selection-start-line="2147" selection-start-column="397" selection-end-line="2147" selection-end-column="397" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -578,13 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15300">
-          <caret line="1020" column="0" lean-forward="true" selection-start-line="1020" selection-start-column="0" selection-end-line="1020" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/products.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -608,86 +501,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/apples" />
     <entry file="file://$PROJECT_DIR$/apples" />
-    <entry file="file://$PROJECT_DIR$/products3.csv">
+    <entry file="file://$PROJECT_DIR$/products3.csv" />
+    <entry file="file://$PROJECT_DIR$/products4.csv" />
+    <entry file="file://$PROJECT_DIR$/products5.csv" />
+    <entry file="file://$PROJECT_DIR$/products6.csv" />
+    <entry file="file://$PROJECT_DIR$/products7.csv" />
+    <entry file="file://$PROJECT_DIR$/products8.csv" />
+    <entry file="file://$PROJECT_DIR$/products2.csv" />
+    <entry file="file://$PROJECT_DIR$/products.csv" />
+    <entry file="file://$PROJECT_DIR$/practice.csv" />
+    <entry file="file://$PROJECT_DIR$/onlyImageProducts1.csv" />
+    <entry file="file://$PROJECT_DIR$/goodImages3.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="1061" column="0" lean-forward="false" selection-start-line="1061" selection-start-column="0" selection-end-line="1061" selection-end-column="0" />
+        <state relative-caret-position="212">
+          <caret line="4999" column="41" lean-forward="false" selection-start-line="4999" selection-start-column="41" selection-end-line="4999" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products4.csv">
+    <entry file="file://$PROJECT_DIR$/goodImages4.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5983">
-          <caret line="2456" column="4" lean-forward="false" selection-start-line="2456" selection-start-column="4" selection-end-line="2456" selection-end-column="4" />
+        <state relative-caret-position="212">
+          <caret line="4771" column="101" lean-forward="false" selection-start-line="4771" selection-start-column="101" selection-end-line="4771" selection-end-column="101" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products5.csv">
+    <entry file="file://$PROJECT_DIR$/nutrition-script/nutritionFormatter.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="2248" column="0" lean-forward="false" selection-start-line="2248" selection-start-column="0" selection-end-line="2248" selection-end-column="0" />
+        <state relative-caret-position="117">
+          <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/products6.csv">
+    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8629">
-          <caret line="2379" column="0" lean-forward="false" selection-start-line="2379" selection-start-column="0" selection-end-line="2379" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products7.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="3882" column="0" lean-forward="true" selection-start-line="3882" selection-start-column="0" selection-end-line="3882" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products8.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="1985" column="41" lean-forward="false" selection-start-line="1985" selection-start-column="41" selection-end-line="1985" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655845">
-          <caret line="2527" column="286" lean-forward="true" selection-start-line="2527" selection-start-column="286" selection-end-line="2527" selection-end-column="286" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="2937" column="100" lean-forward="false" selection-start-line="2937" selection-start-column="100" selection-end-line="2937" selection-end-column="100" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/onlyImageProducts1.csv">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="19769" column="176" lean-forward="true" selection-start-line="19769" selection-start-column="176" selection-end-line="19769" selection-end-column="176" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="239">
-          <caret line="689" column="1685" lean-forward="false" selection-start-line="689" selection-start-column="1685" selection-end-line="689" selection-end-column="1685" />
+        <state relative-caret-position="0">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/goodImages1.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1107055">
+        <state relative-caret-position="15">
+          <caret line="3" column="571" lean-forward="false" selection-start-line="3" selection-start-column="571" selection-end-line="3" selection-end-column="571" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodNutrition1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodNutrition2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -695,34 +569,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goodImages2.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="4999" column="1803" lean-forward="false" selection-start-line="4999" selection-start-column="1803" selection-end-line="4999" selection-end-column="1803" />
+        <state relative-caret-position="405">
+          <caret line="27" column="80" lean-forward="false" selection-start-line="27" selection-start-column="80" selection-end-line="27" selection-end-column="80" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goodImages3.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="4999" column="128" lean-forward="false" selection-start-line="4999" selection-start-column="128" selection-end-line="4999" selection-end-column="128" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="88" column="36" lean-forward="false" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goodImages4.csv">
+    <entry file="file://$PROJECT_DIR$/goodNutrition3.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodNutrition4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nutrition-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
