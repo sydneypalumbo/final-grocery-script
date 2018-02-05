@@ -38,4 +38,12 @@ We’re 1) extracting the URLs of all the product pages  and 2) following those 
 - pip install Selenium
 - pip install csv
 
+# Configuration Set-up
+- On Pycharm, select configuration from left-most drop down menu.
+- Select python 2.7 interperter
+- 
+
+
+# Running the Script
+
 
