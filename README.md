@@ -33,9 +33,9 @@ High level:
 We’re 1) extracting the URLs of all the product pages  and 2) following those urls, downloading the resulting HTML, and parsing the necessary data to save to a database.
 
 # Getting Started
-clone repo
-npm install
-pip install Selenium
-pip install csv
+- clone repo
+- npm install
+- pip install Selenium
+- pip install csv
 
 
