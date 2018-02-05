@@ -40,10 +40,11 @@ We’re 1) extracting the URLs of all the product pages  and 2) following those 
 
 # Configuration Set-up
 - On Pycharm, select configuration from left-most drop down menu.
-- Select python 2.7 interperter
-- 
-
+- Select python 2.7 interperter (virtual env)
 
 # Running the Script
+- Point the script to a starting page on Publix to begin the webscrawl. All subsequent pages reachable from this page will be inclduded in the scrape. 
+- For example, http://www.publix.com/product-catalog/productlisting?ch=9.12.&page=1&count=96 
+
 
 
