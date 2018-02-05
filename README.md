@@ -7,7 +7,12 @@ Script for scraping data for the online grocery project at Duke University.
 Pages used (included in CSV file):
 http://www.publix.com/product-catalog/productlisting?ch=9.12.&page=1&count=96 (Cookies)
 
-Software Used -- Selenium, mySQL, SequelPro, CSVreader
+Software Used:
+Selenium,http://www.seleniumhq.org/
+mySQL, https://www.mysql.com/
+SequelPro, https://www.sequelpro.com/
+CSVreader, http://opencsv.sourceforge.net/apidocs/com/opencsv/CSVReader.html
+Python, https://www.python.org/
 
 # Developer Guide
 Database creation: credit to Publix.com
