@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/final-grocery-script.iml" filepath="$PROJECT_DIR$/.idea/final-grocery-script.iml" />
       <module fileurl="file://$USER_HOME$/working-python/.idea/working-python.iml" filepath="$USER_HOME$/working-python/.idea/working-python.iml" />
     </modules>
   </component>

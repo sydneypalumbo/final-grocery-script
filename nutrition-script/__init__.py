@@ -1,6 +1,6 @@
 import csv
 
-with open('../goodImages4.csv', 'r') as inputFile, open('../goodNutrition4.csv', 'a') as outputFile:
+with open('../guidingStars4.csv', 'r') as inputFile, open('../goodGoodNutrition4.csv', 'a') as outputFile:
     csvReader = csv.reader(inputFile, delimiter='\t')
     csvWriter = csv.writer(outputFile, delimiter='\t')
     for row in csvReader:
@@ -19,6 +19,11 @@ with open('../goodImages4.csv', 'r') as inputFile, open('../goodNutrition4.csv',
             row6 = row[6]
         except IndexError:
             row6 = None
+
+        try:
+            row7 = row[7]
+        except IndexError:
+            row7 = None
 
         servingSize = None
         servingCount = None
@@ -236,7 +241,8 @@ with open('../goodImages4.csv', 'r') as inputFile, open('../goodNutrition4.csv',
         try:
             newRow = [row[0], row[1], row[2], row[3], servingSize, servingCount, fatCalories, calories,
                       totalFat, satFat, transFat, polyFat, monoFat, cholesterol, sodium, potassium, carbs, fiber, sugar,
-                      protein, vitamins, row5, row6]
+                      protein, vitamins, row5, row6, row7]
+            print row7
         except IndexError:
             continue
 
