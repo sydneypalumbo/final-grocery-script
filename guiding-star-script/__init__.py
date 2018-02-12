@@ -21,7 +21,7 @@ with open('../goodGoodNutrition1.csv', 'r+') as csvfile:
         start = False
         for row in reader:
             toSearch = row[0]
-            if toSearch == "Publix Soda, Black Cherry, Diet, Caffeine Free":
+            if toSearch == "StarKist Salmon Creations Salmon, Skinless Boneless, Lemon Dill":
                 start = True
             if not start:
                 continue
