@@ -12,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/final_grocery_script$price_script.coverage" NAME="price-script Coverage Results" MODIFIED="1519176692015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guiding-star-script" />
+    <SUITE FILE_PATH="coverage/final_grocery_script$price_script.coverage" NAME="price-script Coverage Results" MODIFIED="1519184298353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/guiding-star-script" />
     <SUITE FILE_PATH="coverage/final_grocery_script$NutritionScript.coverage" NAME="NutritionScript Coverage Results" MODIFIED="1518403717084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nutrition-script" />
   </component>
   <component name="FavoritesManager">
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/guiding-star-script/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="414">
+              <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -42,11 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="goodGoodNutrition2.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goodGoodNutrition2.csv">
+      <file leaf-file-name="goodPrice4.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/goodPrice4.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7133">
-              <caret line="2944" column="0" lean-forward="false" selection-start-line="2944" selection-start-column="0" selection-end-line="2944" selection-end-column="53" />
+            <state relative-caret-position="197">
+              <caret line="876" column="132" lean-forward="false" selection-start-line="876" selection-start-column="132" selection-end-line="876" selection-end-column="132" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goodGoodNutrition4.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goodGoodNutrition4.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="887" column="0" lean-forward="false" selection-start-line="887" selection-start-column="0" selection-end-line="887" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -87,8 +97,10 @@
       <find>Yellow</find>
       <find>Yellowfin</find>
       <find>Stubbs Bar-B-Q Sauce</find>
-      <find>Gia Russa Spaghetti, Thin, 01, 100% Whole Wheat</find>
       <find>Ronco Makes A Meal Penne Rigate</find>
+      <find>Nestle Dessert Bars</find>
+      <find>Gia Russa Spaghetti, Thin, 01, 100% Whole Wheat</find>
+      <find>Purity Ice Cream, Premium, Caramel Toffee Crunch</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -121,10 +133,11 @@
         <option value="$PROJECT_DIR$/goodGoodNutrition3.csv" />
         <option value="$PROJECT_DIR$/goodGoodNutrition4.csv" />
         <option value="$PROJECT_DIR$/goodPrice1.csv" />
-        <option value="$PROJECT_DIR$/goodGoodNutrition2.csv" />
         <option value="$PROJECT_DIR$/goodPrice2.csv" />
-        <option value="$PROJECT_DIR$/guiding-star-script/__init__.py" />
         <option value="$PROJECT_DIR$/goodPrice3.csv" />
+        <option value="$PROJECT_DIR$/goodGoodNutrition2.csv" />
+        <option value="$PROJECT_DIR$/guiding-star-script/__init__.py" />
+        <option value="$PROJECT_DIR$/goodPrice4.csv" />
       </list>
     </option>
   </component>
@@ -134,8 +147,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="447" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="87" />
     <option name="y" value="23" />
     <option name="width" value="1555" />
     <option name="height" value="857" />
@@ -356,7 +369,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="23" width="1555" height="857" extended-state="0" />
+    <frame x="87" y="23" width="1555" height="857" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11698612" sideWeight="0.4921875" order="0" side_tool="false" content_ui="combo" />
@@ -365,9 +378,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32677165" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26509187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26509187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38057742" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38057742" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5078125" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298791" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -412,13 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/products5.csv" />
     <entry file="file://$PROJECT_DIR$/web-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -573,14 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goodGoodNutrition4.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goodGoodNutrition3.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-71132">
@@ -613,14 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goodGoodNutrition2.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7133">
-          <caret line="2944" column="0" lean-forward="false" selection-start-line="2944" selection-start-column="0" selection-end-line="2944" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/goodPrice2.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
@@ -645,6 +635,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/goodGoodNutrition2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7109">
+          <caret line="2943" column="60" lean-forward="true" selection-start-line="2943" selection-start-column="60" selection-end-line="2943" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goodGoodNutrition4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="887" column="0" lean-forward="false" selection-start-line="887" selection-start-column="0" selection-end-line="887" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guiding-star-script/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nutrition-script/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -653,13 +669,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guiding-star-script/__init__.py">
+    <entry file="file://$PROJECT_DIR$/goodPrice4.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="17" column="52" lean-forward="false" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="197">
+          <caret line="876" column="132" lean-forward="false" selection-start-line="876" selection-start-column="132" selection-end-line="876" selection-end-column="132" />
+          <folding />
         </state>
       </provider>
     </entry>
