@@ -13,15 +13,15 @@ driver.get("https://www.google.com/shopping?hl=en")
 lastprice = 10
 
 driver.implicitly_wait(3)
-with open('../goodGoodNutrition1.csv', 'r+') as csvfile:
-    with open('../goodPrice1.csv', 'a') as csvOutput:
+with open('../goodGoodNutrition4.csv', 'r+') as csvfile:
+    with open('../goodPrice4.csv', 'a') as csvOutput:
         reader = csv.reader(csvfile, delimiter='\t')
         csvWriter = csv.writer(csvOutput, delimiter='\t')
         all = []
         start = False
         for row in reader:
             toSearch = row[0]
-            if toSearch == "Publix Soda, Black Cherry, Diet, Caffeine Free":
+            if toSearch == "Purity Ice Cream, Premium, Butter Pecan":
                 start = True
             if not start:
                 continue

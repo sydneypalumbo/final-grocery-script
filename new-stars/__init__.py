@@ -1,7 +1,7 @@
 import csv
 
-with open('../products_view.csv', 'r+') as csvfile:
-    with open('../products_FINAL.csv', 'w') as csvOutput:
+with open('../goodCategoriesNoPublix4.csv', 'r+') as csvfile:
+    with open('../finalProducts4.csv', 'w') as csvOutput:
         reader = csv.reader(csvfile, delimiter='\t')
         csvWriter = csv.writer(csvOutput, delimiter='\t')
         all = []
@@ -115,7 +115,7 @@ with open('../products_view.csv', 'r+') as csvfile:
             if sodium > 360 and sodium <= 600:
                 starpoints = starpoints - 3
             if sodium > 600:
-                starpoints = sodium - 11
+                starpoints = starpoints - 11
 
             # Fiber ALGO
             if fiber >= 3.75:
@@ -145,13 +145,15 @@ with open('../products_view.csv', 'r+') as csvfile:
                 starpoints = starpoints + 1
 
             guidingStars = 0
-            row.append(starpoints)
+            # row.append(starpoints)
        #     print starpoints
 
             # if it is not a beverage, correct for  "added sugar", "added sodium", "o-3 fatty", "epa/dha"
             print category
             if (category != 7):
                 starpoints = starpoints + 1
+            if (category == 1):
+                starpoints = 10
 
             # add points for items that have less ingredients (more natural)
             if (ingredientCount < 4 & category!=7):
@@ -180,7 +182,7 @@ with open('../products_view.csv', 'r+') as csvfile:
 
 
             row.append(starpoints)
-            row.append(guidingStars)
+            # row.append(guidingStars)
             print guidingStars
             csvWriter.writerow(row)
             rowNum+=1
